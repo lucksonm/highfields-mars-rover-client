@@ -1,8 +1,9 @@
 package com.uz.masters.highfieldsmarsrover.service.stratergy;
 
-import com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResult;
+import com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext;
+import com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext;
 
 public interface IncomingRoverMessageHandler {
-    MessageProcessorResult handleIncomingRoverMessage(final String message);
+    MessageProcessorResultContext handleIncomingRoverMessage(final String message);
 
 }

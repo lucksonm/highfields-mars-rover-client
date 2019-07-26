@@ -31,6 +31,9 @@ public class StratergyUtil {
             case Constants.MessageTypes.MESSAGE_TYPE_INIT:
                 handlerClass = Constants.HandlerClasses.HANDLER_CLASS_INITIALISATION;
                 break;
+            case Constants.MessageTypes.MESSAGE_TYPE_TELEMETRY:
+                handlerClass = Constants.HandlerClasses.HANDLER_CLASS_TELEMETRY;
+                break;
             default:
                 handlerClass = Constants.HandlerClasses.HANDLER_CLASS_NOT_DEFINED;
                 break;

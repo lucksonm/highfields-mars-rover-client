@@ -3,6 +3,7 @@ package com.uz.masters.highfieldsmarsrover.service.impl;
 import com.uz.masters.highfieldsmarsrover.service.RoverClientCommunicator;
 import com.uz.masters.highfieldsmarsrover.service.stratergy.IncomingRoverMessageHandler;
 import com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil;
+import com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
@@ -32,13 +33,13 @@ public class RoverClientCommunicationImpl implements RoverClientCommunicator {
             clientSocket = new Socket(ip, port);
             printWriter = new PrintWriter(clientSocket.getOutputStream(), true);
             scanner = new Scanner(new InputStreamReader(clientSocket.getInputStream()));
+            MessageProcessorResultContext messageProcessorResultContext;
             while (scanner.hasNext()) {
                 scanner.useDelimiter(";");
                 String result = scanner.next();
-                if(result.startsWith("I")) {
-                    incomingRoverMessageHandler = StratergyUtil.generateIncomingMessageHandler(result.charAt(0));
-                    incomingRoverMessageHandler.handleIncomingRoverMessage(result);
-                }
+                incomingRoverMessageHandler = StratergyUtil.generateIncomingMessageHandler(result.charAt(0));
+                messageProcessorResultContext = incomingRoverMessageHandler.handleIncomingRoverMessage(result);
+                LOGGER.log(Level.INFO,messageProcessorResultContext.toString());
             }
         } catch (UnknownHostException e) {
             LOGGER.log(Level.SEVERE,"Host does not exist exception {0}",e);

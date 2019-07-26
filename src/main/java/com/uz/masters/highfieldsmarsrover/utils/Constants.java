@@ -9,11 +9,17 @@ public interface Constants {
 
     interface HandlerClasses{
         String HANDLER_CLASS_INITIALISATION = "com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler";
+        String HANDLER_CLASS_TELEMETRY = "com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler";
         String HANDLER_CLASS_NOT_DEFINED = "Handler Class Not Found";
     }
 
     interface MessageTypes{
         char MESSAGE_TYPE_INIT = 'I';
 
+        char MESSAGE_TYPE_TELEMETRY = 'T';
+    }
+
+    interface ContextParameterKeys {
+        String COMMUNICATION_STILL_ACTIVE = "Communication with Rover still active";
     }
 }
