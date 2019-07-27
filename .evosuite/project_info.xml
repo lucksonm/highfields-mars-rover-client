@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project>
+    <totalNumberOfTestableClasses>8</totalNumberOfTestableClasses>
+    <cut>
+        <fullNameOfTargetClass>com.uz.masters.highfieldsmarsrover.utils.ParameterValidator</fullNameOfTargetClass>
+        <fullNameOfTestSuite>com.uz.masters.highfieldsmarsrover.utils.ParameterValidator_ESTest</fullNameOfTestSuite>
+        <generation>
+            <id>0</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>128</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>1</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>128</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>2</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>128</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>3</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>128</timeBudgetInSeconds>
+            <memoryInMB>1000</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.utils.ParameterValidator/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+    </cut>
+    <cut>
+        <fullNameOfTargetClass>com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil</fullNameOfTargetClass>
+        <fullNameOfTestSuite>com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil_ESTest</fullNameOfTestSuite>
+        <generation>
+            <id>0</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>265</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>1</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>265</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>2</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>265</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>3</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>265</timeBudgetInSeconds>
+            <memoryInMB>1000</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.util.StratergyUtil/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+    </cut>
+    <cut>
+        <fullNameOfTargetClass>com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl</fullNameOfTargetClass>
+        <fullNameOfTestSuite>com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl_ESTest</fullNameOfTestSuite>
+        <generation>
+            <id>0</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>128</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>1</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>128</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>2</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>128</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>3</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>128</timeBudgetInSeconds>
+            <memoryInMB>1000</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.impl.RoverClientCommunicationImpl/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+    </cut>
+    <cut>
+        <fullNameOfTargetClass>com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException</fullNameOfTargetClass>
+        <fullNameOfTestSuite>com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException_ESTest</fullNameOfTestSuite>
+        <generation>
+            <id>0</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>1</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>2</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>3</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>1000</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.exceptions.MarsRoverClientIllegalStateException/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+    </cut>
+    <cut>
+        <fullNameOfTargetClass>com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication</fullNameOfTargetClass>
+        <fullNameOfTestSuite>com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication_ESTest</fullNameOfTestSuite>
+        <generation>
+            <id>0</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>1</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>2</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>3</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>1000</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.HighfieldsMarsRoverApplication/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+    </cut>
+    <cut>
+        <fullNameOfTargetClass>com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler</fullNameOfTargetClass>
+        <fullNameOfTestSuite>com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler_ESTest</fullNameOfTestSuite>
+        <generation>
+            <id>0</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>1</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>2</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>3</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>1000</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.TelemetryDataMessageHandler/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+    </cut>
+    <cut>
+        <fullNameOfTargetClass>com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext</fullNameOfTargetClass>
+        <fullNameOfTestSuite>com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext_ESTest</fullNameOfTestSuite>
+        <generation>
+            <id>0</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>197</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>1</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>197</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>2</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>197</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>3</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>197</timeBudgetInSeconds>
+            <memoryInMB>1000</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.utils.MessageProcessorResultContext/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+    </cut>
+    <cut>
+        <fullNameOfTargetClass>com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler</fullNameOfTargetClass>
+        <fullNameOfTestSuite>com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler_ESTest</fullNameOfTestSuite>
+        <generation>
+            <id>0</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_13_20/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>1</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_30_17/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>2</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_11_46_59/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+        <generation>
+            <id>3</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>60</timeBudgetInSeconds>
+            <memoryInMB>1000</memoryInMB>
+            <std_err_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/lucksonmadziwa/Desktop/School/Software Engineering/highfields-mars-rover/.evosuite/tmp_2019_07_27_12_39_52/logs/com.uz.masters.highfieldsmarsrover.service.stratergy.impl.InitialisationMessageHandler/std_out_MASTER.log</std_out_MASTER>
+        </generation>
+    </cut>
+</Project>
