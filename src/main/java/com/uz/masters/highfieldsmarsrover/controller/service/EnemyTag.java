@@ -1,4 +1,4 @@
-package com.uz.masters.highfieldsmarsrover.controller.model;
+package com.uz.masters.highfieldsmarsrover.controller.service;
 
 public enum EnemyTag {
 
